@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new skills.
 - 🌱 I’m currently learning AWS IoT Core and AWS Services.
 - 💞️ I’m looking to collaborate on different sort of projects in .NET Core Stack.
-- 📫 How to reach me at mohsin.afridi91@gmail.com
+- 📫 Reach me at mohsin.afridi91@gmail.com
 
 <!---
 mohsinafridi/mohsinafridi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
